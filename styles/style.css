@@ -57,8 +57,6 @@ body {
     display: flex;
     flex-direction: column;
     margin-bottom: 840px;
-    /*width: 593px;*/
-    /*height: 50px;*/
 }
 
 .image_area img {
@@ -95,7 +93,6 @@ body {
     font-size: 1.5rem;
 }
 .apresentacao__links_link {
-    /* background-color: #22D4FD; */
     display: flex;
     justify-content: center;
     gap: 16px;
